@@ -8,3 +8,7 @@
 #### 4. If you want to input your text from a file, create your own input.txt file, and write your text there.
 #### 5. Run code.
 #### 6. Congrats! Now you can encrypt your secret text and send it to your friends without worrying about its safety because without a decryptor it's just a bunch of incomprehensible characters :)
+
+### References:
+#### https://en.wikipedia.org/wiki/Four-square_cipher
+#### http://www.crypto-it.net/eng/simple/four-square.html
