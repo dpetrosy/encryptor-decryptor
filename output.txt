@@ -1,0 +1,49 @@
+key1 = lorem
+key2 = ipsum
+
+a b c d e | l o r e m 
+f g h i k | a b c d f 
+l m n o p | g h i k n 
+q r s t u | p q s t u 
+v w x y z | v w x y z 
+- - - - - + - - - - - 
+i p s u m | a b c d e 
+a b c d e | f g h i k 
+f g h k l | l m n o p 
+n o q r t | q r s t u 
+v w x y z | v w x y z 
+
+Your text: 
+
+Fkpub ktilq kefko srd fote, heqimruurup pdeeksskcp fakd. 
+Ptssm suk epsd clrrotord, rqrcdtnum euap nt, qhdsits noqm. 
+Einrllnnh smr lleeifsk rhce. Gkpqr caorddth slss lk slpig igceckf mllinqktrnue. 
+Ltssm snnum ekgrh, eotruph smr kbmnptufu p, gkfgrc suk otets. 
+Teuaw gyatopp iny grdim inqets ayizoqn ohdsits. Einrllnns ph rubq drhktp. 
+Paknufo mnfglruuqpmu igqmx prdim ckbr gkfgrc, hkx glptnupuu kfqug gmsruq. 
+Sme kbmnptufk tdeu kfmubts, lkqutoe etilq eote, mnfglruuqpmu nufo. 
+Nfsst leth puhrhdtq slo, ne iamsubts inu. 
+Itqiordtq izcdqmig ckbr te tru psrlqspx, geruclpf mrhup tone sslltorcnul.
+
+Mgtkc bepmsklq suk onrsp ayupe ltopnqklq. 
+Thimsuqk deqelq ckct ne rqrcdtnul okgtrdtz. 
+Ltrdtomnnp geqmu pgqsi, mpfqtnr ctu ppnu skidepnqklq nurc, flramur sme defo. 
+Thdkq gmpo gmpg, gmsruq pets tet ud, sfskpubtu skhgkke pnruh. 
+Upptrlrk upudtlq hechmu gkinqtuf. 
+Imsnfr lkoti maaucrdtq defo, tm heghuku nqt fynnkune izn. 
+Itsmnskrcsu suk rubx ardim ukkd ivbtts nbkcbdfgi. 
+Eets upfr saorddth ple. 
+Qmppberup upfk prhlo te rhce izqtublplq ivbtts ayupm ml pirts.
+
+Thdks ngth qaosg, lllolrrup ny pllrd ne, eotrupc ptmbdne lrkb. 
+Tt izi geqmu hechmu, lkotdtktg pdblpi mu, skisunune inr. 
+Getqpmu nurc defo sug. Nllinqktrnue riordfrk qrhbe rqrcdtnut rlrmrrus uk 
+stets te pginquiea lfotr ir rugurc eotrupq. Sme dtsiudlsk smr tqsg ayupl okgakh. 
+Qimsmsgq ssminbtqpmu deqelq igqms ud slrrotord. 
+Nurcnum lpsl pmrruh, pfepute te iny grdim, izsnsgdtq tlotns pqkm. 
+Rpph qfltrmpul ktotrh nurc qnsi lpigpirhmnw pnorfq. 
+Petqpmu uufgts izakd, tgntodete eote tqsg te, kcuuptlq nmqerh fruu. 
+Mnfglruuqpmu ayupl lrhlo tori. Quhulrdeqse eh nrhrtrdrh akofig, hkq klolkp ppsm. 
+Stqiordtq kbmnptufr, pmpb ks ikhgkke irqmoifr, tori ktotrh uaqmakh tpsy, 
+all hechmu speklr rfqtu gh ou. Alrmls g fkpup nt tllnnh qkgakh qkgaks pu um tkgrh. 
+Nurcnut mu tet eote trd pbtchkaig sfskpubtt.
