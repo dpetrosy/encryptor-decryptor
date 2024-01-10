@@ -1,4 +1,4 @@
-## 📜 Short about project
+## 📜 About Project
 This is my small project on python. User selects mode &nbsp;**`encrypt`** or &nbsp;**`decrypt`** and input keys. Program get input from console or from user file depends on user chosen mode, and encrypt user text using four-square cipher which working with 2 keys, output text in console or in file &nbsp;**<code>output.txt</code>**. The same thing happens during decryption, and program decrypt user text instead of encryption. Key may be any text, program filters it and get desired characters.
 
 ## 👨🏻‍💻 Getting Started
