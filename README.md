@@ -10,5 +10,5 @@ This is my small project on python. User selects mode &nbsp;**`encrypt`** or &nb
 6. Congrats! Now you can encrypt your secret text and send it to your friends without worrying about its safety because without a decryptor it's just a bunch of incomprehensible characters :)
 
 **References:**
-https://en.wikipedia.org/wiki/Four-square_cipher
-http://www.crypto-it.net/eng/simple/four-square.html
+* https://en.wikipedia.org/wiki/Four-square_cipher
+* http://www.crypto-it.net/eng/simple/four-square.html
